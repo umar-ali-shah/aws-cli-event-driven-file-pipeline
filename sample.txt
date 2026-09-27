@@ -1,0 +1,2 @@
+AWS CLI Event-Driven File Notification Pipeline
+This is my sample file for the AWS CLI assignment.

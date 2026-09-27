@@ -1,0 +1,6 @@
+*.zip
+__pycache__/
+*.pyc
+.aws/
+.env
+aws-working-*
